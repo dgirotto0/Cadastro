@@ -22,6 +22,13 @@ WinForms
 
 OpenXML
 
+## Imagens 
+Tela de Cadastro
+![Tela de Cadastro](Cadastro.png)
+
+Tela de Consulta
+![Tela de Consulta](Consulta.gif)
+
 
 
 
