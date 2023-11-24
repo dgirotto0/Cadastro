@@ -25,7 +25,7 @@ OpenXML
 ## Imagens
 ![Tela de cadastro](Itaoleo\Cadastro.png)
 
-![Tela de consulta](Itaoleo\Consulta.gif")
+![Tela de consulta](Itaoleo\Consulta.gif)
 
 
 
