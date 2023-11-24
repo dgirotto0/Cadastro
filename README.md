@@ -1,4 +1,4 @@
-# Cadastro
+# Cadastro - WinForms
 Esse projeto eu desenvolvi em C# utilizando Windows Forms, que oferece uma solução completa para o cadastro e consulta de clientes. O aplicativo é projetado para facilitar o gerenciamento de informações do cliente e armazená-las em uma planilha do Excel.
 
 ## Como usar
