@@ -23,9 +23,9 @@ WinForms
 OpenXML
 
 ## Imagens
-![Tela de cadastro](Itaoleo\Cadastro.png)
+<img src="Itaoleo/Cadastro.png" alt="Tela de Cadastro">
 
-![Tela de consulta](Itaoleo\Consulta.gif)
+<img src="Itaoleo/Consulta.gif" alt="Tela de Consulta">
 
 
 
