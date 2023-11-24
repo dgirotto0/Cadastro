@@ -15,7 +15,7 @@ Para consultar um cliente, faça o seguinte:
 2. Na tela de consulta, insira a placa do carro do cliente que deseja consultar.
 3. Clique no botão "Buscar" para exibir as informações do cliente.
 
-## Tecnologias usadas nesse projeto
+## Tecnologias utilizadas nesse projeto
 C#
 
 WinForms
