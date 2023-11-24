@@ -22,10 +22,7 @@ WinForms
 
 OpenXML
 
-## Imagens
-<img src="Cadastro/Cadastro.png" alt="Tela de Cadastro">
 
-<img src="Cadastro/Consulta.gif" alt="Tela de Consulta">
 
 
 
